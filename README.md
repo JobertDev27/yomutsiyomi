@@ -4,9 +4,9 @@
     <img src="./.github/assets/logo.png" alt="Aniyomi logo" title="Aniyomi logo" width="80"/>
 </a>
 
-# Aniyomi [App](#)
+# Yomutsiyomi [App](#)
 
-### Full-featured player and reader, based on ~~Tachiyomi~~ Mihon.
+### Full-featured player and reader, forked from aniyomi.
 Discover and watch anime, cartoons, series, and more – easier than ever on your Android device.
 
 [![Discord server](https://img.shields.io/discord/841701076242530374.svg?label=&labelColor=6A7EC2&color=7389D8&logo=discord&logoColor=FFFFFF)](https://discord.gg/F32UjdJZrR)
